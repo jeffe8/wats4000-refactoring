@@ -55,7 +55,7 @@ export default {
       params: {
           id: this.$route.params.cityId,
           units: 'imperial',
-          APPID: 'YOUR_APPID_HERE'
+          APPID: 'e173cdf8be874eede619df7b7f0319c0'
       }
     })
     .then(response => {
